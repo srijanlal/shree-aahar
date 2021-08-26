@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/shree-aahar/static/css/main.84a24a56.chunk.css",
+    "main.js": "/shree-aahar/static/js/main.0d39837c.chunk.js",
+    "main.js.map": "/shree-aahar/static/js/main.0d39837c.chunk.js.map",
+    "runtime-main.js": "/shree-aahar/static/js/runtime-main.18a20b9f.js",
+    "runtime-main.js.map": "/shree-aahar/static/js/runtime-main.18a20b9f.js.map",
+    "static/js/2.762cf0e0.chunk.js": "/shree-aahar/static/js/2.762cf0e0.chunk.js",
+    "static/js/2.762cf0e0.chunk.js.map": "/shree-aahar/static/js/2.762cf0e0.chunk.js.map",
+    "index.html": "/shree-aahar/index.html",
+    "static/css/main.84a24a56.chunk.css.map": "/shree-aahar/static/css/main.84a24a56.chunk.css.map",
+    "static/js/2.762cf0e0.chunk.js.LICENSE.txt": "/shree-aahar/static/js/2.762cf0e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18a20b9f.js",
+    "static/js/2.762cf0e0.chunk.js",
+    "static/css/main.84a24a56.chunk.css",
+    "static/js/main.0d39837c.chunk.js"
+  ]
+}
